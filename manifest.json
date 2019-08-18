@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "version": "5.0",
+  "name": "Fx Preview Dark",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(20, 19, 23)",
+      "bookmark_text": "rgb(255, 255, 255)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(20, 19, 23)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(56, 34, 100)",
+      "popup": "rgb(56, 34, 100)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(255, 255, 255)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+      "popup_highlight": "rgb(56, 34, 100)",
+      "toolbar_field_border": "rgb(56, 34, 100)",
+      "toolbar_field_border_focus": "rgb(56, 34, 100)",	
+      "toolbar_field_focus": "rgb(20, 19, 23)",
+      "ntp_background": "rgb(20, 19, 23)",
+      "ntp_text":"rgb(255, 255, 255)"
+
+    }
+  }
+}
